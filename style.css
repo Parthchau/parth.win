@@ -1,0 +1,75 @@
+/* General Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff0f0;
+  color: #990000;
+}
+
+header {
+  background-color: #990000;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+header p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+/* About Section */
+.about {
+  background-color: #ffcccc;
+  padding: 20px;
+  text-align: center;
+}
+
+.about h2 {
+  color: #990000;
+}
+
+.about p {
+  font-size: 18px;
+  color: #660000;
+}
+
+/* Menu Section */
+.menu {
+  padding: 20px;
+  text-align: center;
+  background-color: #ffcccc;
+}
+
+.menu h2 {
+  color: #990000;
+}
+
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu li {
+  font-size: 20px;
+  margin: 5px 0;
+  color: #660000;
+}
+
+/* Footer Section */
+footer {
+  background-color: #990000;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+footer p {
+  margin: 5px 0;
+}
